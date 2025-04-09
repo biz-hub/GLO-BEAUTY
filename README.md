@@ -1,7 +1,4 @@
 # ![Your Logo Here](logo.jpg)  
-## Welcome to Glo-Beauty ðŸŒŸ  
-
-### **Let Your Beauty Glow**
 
 ---
 
