@@ -1,4 +1,4 @@
-# ![Your Logo Here](INSERT_LOGO_URL_HERE)  
+# ![Your Logo Here](logo.jpg)  
 ## Welcome to Glo-Beauty ðŸŒŸ  
 
 ### **Let Your Beauty Glow**
@@ -7,22 +7,19 @@
 
 ## ðŸ–¼ï¸ About Glo-Beauty  
 Glo-Beauty is a premium beauty
-spa&products brand dedicated to enhancing your natural beauty. We offer a wide range of high-quality products, including lashes, glosses, and brushes, to give you that radiant glow.
+spa. We offer a wide range of high-quality service, including lashes installation, make up,acrylics,builder ,gumgel,haiedressing, to give you that radiant glow.
 
 ---
 
-## âœ¨ Features  
-- **Premium Quality**: Our products are made with the finest quality materials.  
-- **Affordable Prices**: Beauty doesn't have to break the bank.  
-- **Eco-Friendly**: We care about the planet and use sustainable materials.  
+
 
 ---
 
-## ðŸ›ï¸ Our Products  
+## ðŸ›ï¸ Our Services
 | Product Name  | Image                       | Price   |  
 |---------------|-----------------------------|---------|  
-| Luxe Lashes   | ![Lashes](INSERT_IMAGE_URL) | $12.99  |  
-| Glossy Lips   | ![Gloss](INSERT_IMAGE_URL)  | $9.99   |  
+| lash installation | ![Lashes](INSERT_IMAGE_URL) | $12.99  |  
+(INSERT_IMAGE_URL)  | $9.99   |  
 | Pro Brush Set | ![Brushes](INSERT_IMAGE_URL)| $19.99  |  
 
 ---
