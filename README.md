@@ -5,7 +5,7 @@
 
 ---
 
-## ðŸ–¼ï¸ About Glo-Beauty  
+## About Glo-Beauty  
 Glo-Beauty is a premium beauty
 spa. We offer a wide range of high-quality service, including lashes installation, make up,acrylics,builder ,gumgel,haiedressing, to give you that radiant glow.
 
@@ -15,7 +15,7 @@ spa. We offer a wide range of high-quality service, including lashes installatio
 
 ---
 
-## ðŸ›ï¸ Our Services
+## Our Services
 | Product Name  | Image                       | Price   |  
 |---------------|-----------------------------|---------|  
 | lash installation | ![Lashes](INSERT_IMAGE_URL) | $12.99  |  
@@ -24,7 +24,7 @@ spa. We offer a wide range of high-quality service, including lashes installatio
 
 ---
 
-## ðŸŽ¨ Gallery  
+## Gallery  
 Check out some of our featured looks and customer favorites!
 
 ### Featured Looks  
@@ -36,7 +36,7 @@ Check out some of our featured looks and customer favorites!
 
 ---
 
-## ðŸŒ Visit Us  
+## Visit Us: 
 - **Website**: [https://yourwebsite.com](https://yourwebsite.com)  
 - **Social Media**:  
   - [Instagram](https://instagram.com/yourprofile)  
@@ -44,29 +44,23 @@ Check out some of our featured looks and customer favorites!
 
 ---
 
-## ðŸ‘©â€ðŸ’» How to Contribute  
-We welcome contributions! Here's how you can help:  
-1. Fork the repository.  
-2. Create a new branch (`feature/your-feature`).  
-3. Commit your changes.  
-4. Submit a pull request.  
 
 ---
 
-## ðŸ“„ License  
+##License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## ðŸ–Šï¸ Author  
-**Your Name**  
-Email: [your-email@example.com](mailto:your-email@example.com)  
+##  Author  
+**Emmanuel juliet**  
+Email: [@gmail.com](mailto:julietthenja-@gmail.com)  
 GitHub: [@your-github-username](https://github.com/your-github-username)  
 
 ---
 
-## ðŸ’¡ Notes  
+## 
 - Replace all `INSERT_IMAGE_URL` and `INSERT_LOGO_URL_HERE` placeholders with your actual image URLs or file paths.  
-- Customize the content to fit your brand and products.  
+- Customize the content to fit your brand.
 
 ---
